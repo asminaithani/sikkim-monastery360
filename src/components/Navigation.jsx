@@ -21,7 +21,8 @@ const Navigation = () => {
     { path: '/archives', label: 'Archives' },
     { path: '/audio-guide', label: 'Audio Guide' },
     { path: '/events', label: 'Events' },
-    { path: '/booking', label: 'Booking' }
+    { path: '/booking', label: 'Booking' },
+    { path: '/calendar', label: 'Calendar'}
   ];
 
   return (

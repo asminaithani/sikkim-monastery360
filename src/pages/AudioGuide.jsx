@@ -209,7 +209,6 @@ const AudioGuide = () => {
                   <div>
                     <h4 style={{margin: '0 0 0.25rem 0'}}>{track.title}</h4>
                     {index === 2 && <p style={{margin: '0', color: '#B8860B', fontWeight: 'bold'}}>🎵 Currently Playing</p>}
-                    }
                   </div>
                   <div style={{color: '#666', fontWeight: 'bold'}}>
                     {track.duration}
