@@ -128,4 +128,4 @@ For questions about the project or collaboration opportunities:
 
 ---
 
-*Built with ❤️ for preserving Sikkim's spiritual heritage*
+*Built with ❤️ for preserving Sikkim's spiritual heritage*# sikkim
